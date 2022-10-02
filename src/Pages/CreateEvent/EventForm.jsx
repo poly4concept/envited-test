@@ -1,6 +1,5 @@
 import React from 'react'
 import Input from '../../Components/Input'
-import {useDropzone} from 'react-dropzone';
 import ImageUploader from './ImageUploader';
 import Button from '../../Components/Button';
 

@@ -1,5 +1,5 @@
 import React from 'react'
-import Button from './Button'
+import Button from './CreateButton'
 import EventCard from './EventCard'
 import HeadingText from './HeadingText'
 
